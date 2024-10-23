@@ -65,7 +65,6 @@
    65  cat gestionlvm/
    66  cd gestionlvm/
    67  ls
-   68  sexo
    69  clear
    70  history
    71  clear
@@ -93,8 +92,7 @@
    93  sudo lvcreate /n www /L 1G datos
    94  sudo lvcreate -n www -L 1G datos
    95  sudo lvcreate -n salvas -L 4g datos
-   96  sudo lvresize -L 2G datos/www
-   97  sudo lvresize -L 1,99 datos/www
+   96  sudo lvextend -L 2G datos/www
    98  history
    99  historY > /home/repogit2/history.txt
   100  ls
