@@ -1,0 +1,110 @@
+    1  hola
+    2  echo hola
+    3  clear
+    4  su visudo
+    5  visudo
+    6  sudo
+    7  sudo visudo
+    8  visudo
+    9  sudo visudo
+   10  sudo sudoers
+   11  bah
+   12  clear
+   13  sudo aapt
+   14  sudo apt
+   15  clear
+   16  su [sudo] password for martin: 
+   17  martin is not in the sudoers file.  This incident wil
+   18  clear
+   19  su -
+   20  clear
+   21  sudo apt upgrade
+   22  su /
+   23  su -
+   24  hola
+   25  apt install git
+   26  sudo apt install git
+   27  sudo install tree
+   28  sudo apt install tree
+   29  sudo apt hola
+   30  echo hola
+   31  echo hola >> ficheto.txt
+   32  ls
+   33  cat ficheto.txt 
+   34  rm -f fichero.txt
+   35  ls
+   36  rm ficheto.txt 
+   37  ls
+   38  clear
+   39  echo hola
+   40  ps aux
+   41  ps aux | grep "bash"
+   42  sudo apt install lvm2
+   43  sudo apt install tracer
+   44  test
+   45  sudo apt install tracer
+   46  sudo apt install traceroute
+   47  ls
+   48  git clone https://github.com/MArtinJUanas/Gestionlvm.git
+   49  git clone https://github.com/MartinJuanas/Gestionlvm.git
+   50  ssh-keygen
+   51  cat $HOME/.ssh/id_rsa.pub
+   52  git config //global user.name "MartinJUanas"
+   53  git config --global user.name "MartinJuanas"
+   54  git config --global user.email "martinloljuanas@gmail.com"
+   55  mkdir $HOME/repogit
+   56  mkdir $HOME/repogit2
+   57  cd repogit2
+   58  ls
+   59  cd
+   60  ls
+   61  cd repogit2
+   62  git clone https://github.com/MartinJuanas/gestionlvm.git
+   63  git clone git@github.com:MartinJuanas/gestionlvm.git
+   64  ls
+   65  cat gestionlvm/
+   66  cd gestionlvm/
+   67  ls
+   68  sexo
+   69  clear
+   70  history
+   71  clear
+   72  history
+   73  history man
+   74  history help
+   75  history mann
+   76  clear
+   77  lsblk
+   78  sudo fdisk /dev/sdb
+   79  fdisk /dev/sdb
+   80  sudo fdisk /dev/sdb
+   81  sudo fdisk /dev/sdd
+   82  sudo fdisk /dev/sdc
+   83  pvcreate /dev/sdb
+   84  clear
+   85  sudo pvcreate /dev/sdb /dev/sdc /dev/sdd
+   86  sudo pvcreate /dev/sdb
+   87  sudo fdisk /dev/sdb
+   88  sudo fdisk /dev/sdd
+   89  pvcreate /dev/sdb
+   90  sudo fdisk /dev/sdc
+   91  sudo pvcreate /dev/sdb /dev/sdc /dev/sdd
+   92  sudo vgcreate datos /dev/sdb /dev/sdc /dev/sdd
+   93  sudo lvcreate /n www /L 1G datos
+   94  sudo lvcreate -n www -L 1G datos
+   95  sudo lvcreate -n salvas -L 4g datos
+   96  sudo lvresize -L 2G datos/www
+   97  sudo lvresize -L 1,99 datos/www
+   98  history
+   99  historY > /home/repogit2/history.txt
+  100  ls
+  101  cd desktop
+  102  cd ..
+  103  ls
+  104  cd
+  105  ls
+  106  cd repogit2
+  107  ls
+  108  ls gestionlvm/
+  109  cd
+  110  history > repogit2/gestionlvm/history.txt
